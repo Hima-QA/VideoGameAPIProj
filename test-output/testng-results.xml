@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4519" started-at="2021-03-04T21:44:24Z" finished-at="2021-03-04T21:44:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4519" started-at="2021-03-04T21:44:24Z" finished-at="2021-03-04T21:44:28Z">
+      <class name="testcases.VideoGameAPITests">
+        <test-method status="PASS" signature="getALLVideoGames_tc001()[pri:1, instance:testcases.VideoGameAPITests@1f1c7bf6]" name="getALLVideoGames_tc001" duration-ms="2964" started-at="2021-03-04T21:44:24Z" finished-at="2021-03-04T21:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getALLVideoGames_tc001 -->
+        <test-method status="PASS" signature="addNewVideoGame_tc002()[pri:2, instance:testcases.VideoGameAPITests@1f1c7bf6]" name="addNewVideoGame_tc002" duration-ms="7" started-at="2021-03-04T21:44:27Z" finished-at="2021-03-04T21:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewVideoGame_tc002 -->
+        <test-method status="PASS" signature="addNewVideoGame_tc002a()[pri:3, instance:testcases.VideoGameAPITests@1f1c7bf6]" name="addNewVideoGame_tc002a" duration-ms="327" started-at="2021-03-04T21:44:27Z" finished-at="2021-03-04T21:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewVideoGame_tc002a -->
+        <test-method status="PASS" signature="getSingleVGame_tc004()[pri:4, instance:testcases.VideoGameAPITests@1f1c7bf6]" name="getSingleVGame_tc004" duration-ms="982" started-at="2021-03-04T21:44:27Z" finished-at="2021-03-04T21:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleVGame_tc004 -->
+        <test-method status="PASS" signature="updateVideoGame_tc003()[pri:5, instance:testcases.VideoGameAPITests@1f1c7bf6]" name="updateVideoGame_tc003" duration-ms="85" started-at="2021-03-04T21:44:28Z" finished-at="2021-03-04T21:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateVideoGame_tc003 -->
+        <test-method status="PASS" signature="deleteVideoGame_tc005()[pri:6, instance:testcases.VideoGameAPITests@1f1c7bf6]" name="deleteVideoGame_tc005" duration-ms="49" started-at="2021-03-04T21:44:28Z" finished-at="2021-03-04T21:44:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteVideoGame_tc005 -->
+      </class> <!-- testcases.VideoGameAPITests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
